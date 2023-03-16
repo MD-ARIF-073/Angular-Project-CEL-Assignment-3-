@@ -1,0 +1,135 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "zahid",
+      "email": "zahid@gmail.com",
+      "mobile": 1942975924,
+      "city": "Barishal"
+    },
+    {
+      "id": 2,
+      "name": "arif",
+      "email": "arif@gmail.com",
+      "mobile": 1904476050,
+      "city": "Dhaka"
+    },
+    {
+      "id": 5,
+      "name": "zubayer",
+      "email": "zubayer@gmail.com",
+      "mobile": 1782472247,
+      "city": "Sylhet "
+    },
+    {
+      "id": 6,
+      "name": "farshid",
+      "email": "farshid@gmail.com",
+      "mobile": 1842472943,
+      "city": "Bogra"
+    },
+    {
+      "id": 7,
+      "name": "arnab",
+      "email": "arnab@gmail.com",
+      "mobile": 1984214943,
+      "city": "vola"
+    },
+    {
+      "id": 8,
+      "name": "alvi",
+      "email": "alvi@gmail.com",
+      "mobile": 1981482949,
+      "city": "Khulna"
+    },
+    {
+      "id": 9,
+      "name": "akib",
+      "email": "akib@gmail.com",
+      "mobile": 1992147294,
+      "city": "dhaka"
+    },
+    {
+      "id": 10,
+      "name": "labib",
+      "email": "labib@gmail.com",
+      "mobile": 1984284248,
+      "city": "Rajshahi"
+    },
+    {
+      "id": 11,
+      "name": "Redwan",
+      "email": "redwan@gmail.com",
+      "mobile": 1904241841,
+      "city": "Kustiya"
+    },
+    {
+      "id": 12,
+      "name": "Jofa",
+      "email": "jofa@gmail.com",
+      "mobile": 1948535835,
+      "city": "Chadpur"
+    },
+    {
+      "id": 13,
+      "name": "kabir",
+      "email": "kabir@gmail.com",
+      "mobile": 1929474299,
+      "city": "Comilla"
+    },
+    {
+      "id": 14,
+      "name": "samim",
+      "email": "samim@gmail.com",
+      "mobile": 1981391471,
+      "city": "dhaka"
+    },
+    {
+      "id": 15,
+      "name": "badal",
+      "email": "badal@gmail.com",
+      "mobile": 1989278428,
+      "city": "khulna"
+    }
+  ],
+  "Signup": [
+    {
+      "name": "kobir",
+      "email": "kobir@gmail.com",
+      "mobile": 1932749254,
+      "password": "dalfafe",
+      "id": 1
+    },
+    {
+      "name": "mehrab",
+      "email": "mehrab@gmail.com",
+      "mobile": 1984294729,
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "nabil",
+      "email": "nabil@gmail.com",
+      "mobile": 1948284222,
+      "password": "abcd",
+      "id": 3
+    },
+    {
+      "name": "sadiq",
+      "email": "sadiq@gmail.com",
+      "mobile": 1994927294,
+      "password": "abcd",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
